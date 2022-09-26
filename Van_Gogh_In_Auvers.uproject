@@ -94,6 +94,18 @@
 		{
 			"Name": "ModelingToolsEditorMode",
 			"Enabled": true
+		},
+		{
+			"Name": "Tech-Art-Library",
+			"Enabled": true
+		},
+		{
+			"Name": "OnlineSubsystemOculus",
+			"Enabled": true
+		},
+		{
+			"Name": "XRVisualization",
+			"Enabled": false
 		}
 	],
 	"TargetPlatforms": [
