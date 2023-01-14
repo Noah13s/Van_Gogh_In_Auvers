@@ -96,10 +96,6 @@
 			"Enabled": true
 		},
 		{
-			"Name": "Tech-Art-Library",
-			"Enabled": true
-		},
-		{
 			"Name": "OnlineSubsystemOculus",
 			"Enabled": true
 		},
